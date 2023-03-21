@@ -33,5 +33,5 @@ export async function getUser(request: Request) {
    * `npm run build && npm run start` to see how. (Before removing it
    * the app builds and starts correctly.)
    */
-  new PrismaClient();
+  //new PrismaClient();
 }
